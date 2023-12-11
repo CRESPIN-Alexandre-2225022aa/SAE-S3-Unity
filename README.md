@@ -28,5 +28,11 @@ Je vais expliquer ici comment faire pour récupérer le projet sous Unity et com
 
 Pour cela vous aurez besoins de l'application GitHub desktop et de Unity avec la bonne version de Unity installé.  
 Sur GitHub disktop cloner le repository.  
-![Capture d'écran 2023-12-11 125655](https://github.com/CRESPIN-Alexandre-2225022aa/SAE-S3-Unity/assets/126071849/09cae525-a582-4d48-a255-3104d41f5520)
-Puis vous ouvrez le dossier ou vous avez 
+![Capture d'écran 2023-12-11 125655](https://github.com/CRESPIN-Alexandre-2225022aa/SAE-S3-Unity/assets/126071849/09cae525-a582-4d48-a255-3104d41f5520)  
+Puis vous ouvrez le dossier ou vous avez cloner le repository et vous copié le chemin du dossier.  
+Vous ouvrez Unity Hub et vous appuyer sur Add project from disk dans la page Projects
+![Capture d'écran 2023-12-11 140214](https://github.com/CRESPIN-Alexandre-2225022aa/SAE-S3-Unity/assets/126071849/7e759a1c-b8bf-46af-b44c-14dcc0611705)  
+Collé le chemin de de votre dossier, cliqué 1 seul fois sur le dossier du projet Unity et appuyé sur valider.  
+Après quelques instant votre projet est load dans Unity.  
+Ne pas déplacer le dossier de projet.  
+Lorsque vous faite des modifications sur Unity vous devez aller sur GitHub desktop pour commit et push.
